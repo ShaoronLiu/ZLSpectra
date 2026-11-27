@@ -11,4 +11,3 @@
 ## 2026-11-27 submission preparation
 
 - Added repository address, author-reported tested environment and illustrated English user guide.
-- Confirmed the two reference workbooks and updated goethite references to 425/455 nm.
