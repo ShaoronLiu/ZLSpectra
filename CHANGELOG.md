@@ -7,9 +7,6 @@
 - Included a sample manifest, source attribution and historical selected outputs.
 - Added MIT software license and citation metadata.
 
-## 2026-11-27 reference update
-
-- Updated the nominal goethite minimum/maximum guides to 425/455 nm.
 
 ## 2026-11-27 submission preparation
 
