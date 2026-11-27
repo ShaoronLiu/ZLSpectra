@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite ZLSpectra and the original publications underlying the data and methods used."
+type: software
+title: "ZLSpectra: A MATLAB-based graphical tool for mineral-proxy extraction from diffuse reflectance spectra"
+authors:
+  - family-names: Liu
+    given-names: Shaorong
+  - family-names: Zhang
+    given-names: Jingyu
+  - family-names: Liu
+    given-names: Qingsong
+  - family-names: Cao
+    given-names: Wei
+  - family-names: Nie
+    given-names: Junsheng
+license: MIT
+abstract: "Batch processing and interactive analysis of laboratory diffuse reflectance spectra in MATLAB."
+keywords:
+  - diffuse reflectance spectroscopy
+  - mineral proxies
+  - MATLAB
+url: "https://github.com/ShaoronLiu/ZLSpectra"
+repository-code: "https://github.com/ShaoronLiu/ZLSpectra"
